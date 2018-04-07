@@ -1,8 +1,6 @@
 # Compiled class file
 *.class
-*.settings
-*.project
-*.classpath
+
 
 # Log file
 *.log
@@ -27,3 +25,6 @@ hs_err_pid*
 
 
 
+*.settings
+.project
+.classpath
